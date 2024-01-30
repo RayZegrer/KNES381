@@ -30,5 +30,8 @@ Four hyphens spaced out will insert a horizontal line
 
 <details>
   <summary> Toggle bullet points </summary>
-  <p> </p>
+  <p> `<details> 
+      <summary> Title </summary>   
+      <p> Paragraph content </p>
+      </details>` </p>
 </details>
