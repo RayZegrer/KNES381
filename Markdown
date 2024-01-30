@@ -28,3 +28,7 @@ Content Cell  |  \| (Backslash to add pipe symbol)
 Four hyphens spaced out will insert a horizontal line
 ![A cute cat with blue eyes](https://d2zp5xs5cp8zlg.cloudfront.net/image-83814-800.jpg "It's a picture")
 
+<details>
+  <summary> Toggle bullet points </summary>
+  <p> </p>
+</details>
