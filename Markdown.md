@@ -1,4 +1,4 @@
-# Heading 1:-single-hashtags # 
+# Heading 1 # 
 ## Markdown similar to Discord ## 
 *italics*, **bolded**, ***italics and bolded***
 
@@ -25,7 +25,7 @@ Content Cell  | Content Cell |
 Content Cell  |  \| (Backslash to add pipe symbol) | 
 
 ## Other ## 
-[Heading-1](#heading-1:-single-hashtags "Hover text") 
+[Heading-1](#heading-1 "Go to Heading 1") 
 - [ ] Tasks with checkboxes are hyphens then square brackets
 - [x] x inside the brackets will mark as complete
 - - - - 
