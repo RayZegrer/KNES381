@@ -12,6 +12,9 @@
 > Less than to quote
 >> Double less than will nest the quote
 
+🐈‍⬛
+emojis are in colons
+
 ## Tables ##
 Left Header  | Centre Header | Right Header
 | :--- | ---: | :---:
@@ -29,9 +32,7 @@ Four hyphens spaced out will insert a horizontal line
 ![A cute cat with blue eyes](https://d2zp5xs5cp8zlg.cloudfront.net/image-83814-800.jpg "It's a picture")
 
 <details>
-  <summary> Toggle bullet points </summary>
-  <p> `<details> 
-      <summary> Title </summary>   
-      <p> Paragraph content </p>
-      </details>` </p>
+  <summary> Toggle bullet points in HTML summary </summary>
+  <p> content in HTML paragraph </p>
+  <p> whole thing in HTML details</p>
 </details>
