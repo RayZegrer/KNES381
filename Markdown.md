@@ -1,4 +1,4 @@
-# Heading 1: single hashtags # 
+# Heading 1:-single-hashtags # 
 ## Markdown similar to Discord ## 
 *italics*, **bolded**, ***italics and bolded***
 
@@ -14,19 +14,18 @@
 > Less than to quote
 >> Double less than will nest the quote
 
-🐈‍⬛
+:cat: 
 emojis are in colons
 
 ## Tables ##
 Left Header  | Centre Header | Right Header
-| :--- | ---: | :---:
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-Content Cell  |  \| (Backslash to add pipe symbol)
+| :--- | :---: | ---:
+Content   | Content Cell | 
+Content Cell  | Content Cell | 
+Content Cell  |  \| (Backslash to add pipe symbol) | 
 
 ## Other ## 
-[Heading-1](#heading-1 "Hover text") 
+[Heading-1](#heading-1:-single-hashtags "Hover text") 
 - [ ] Tasks with checkboxes are hyphens then square brackets
 - [x] x inside the brackets will mark as complete
 - - - - 
