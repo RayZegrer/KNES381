@@ -10,6 +10,7 @@
     <tr>
       <td>
         <p> Text with different colour </p>
+        $$colour$$
         <a href="https://github.com/RayZegrer/KNES381/blob/main/readme.md">Hyper-link to readme document</a>
         <p> Subscript text: V&#x307;O<sub>2</sub></p>
         </td>
@@ -21,4 +22,6 @@
 </body>
   
 </html>
+
+
 
